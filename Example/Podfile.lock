@@ -1,0 +1,16 @@
+PODS:
+  - PNotification (0.1.0)
+
+DEPENDENCIES:
+  - PNotification (from `../`)
+
+EXTERNAL SOURCES:
+  PNotification:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PNotification: 6e9e319ba2b5245cb882d9efe91b2caf6469b93a
+
+PODFILE CHECKSUM: b605b665bc18b3b3f35e7b08f69f41fecb7d72ff
+
+COCOAPODS: 1.5.0
